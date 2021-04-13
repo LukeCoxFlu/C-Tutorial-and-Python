@@ -1,2 +1,3 @@
 ﻿  main.cpp
+D:\GitProd\C-Tutorial-and-Python\TutOneNotTheDemo\Project1\main.cpp(20,16): warning C4305: 'initializing': truncation from 'double' to 'float'
   Project1.vcxproj -> D:\GitProd\C-Tutorial-and-Python\TutOneNotTheDemo\Debug\Project1.exe
